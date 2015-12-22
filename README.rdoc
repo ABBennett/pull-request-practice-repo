@@ -2,3 +2,4 @@
 
 *I have made changes to the README file!
 * i have made more changes to the update-readme branch
+* building patterns teaching how to merge
